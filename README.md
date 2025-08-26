@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate **[Android developer"]** with a love for creating intuitive and beautiful web experiences. 
+I'm a passionate **[Android developer"]** with a love for creating intuitive and beautiful app experiences. 
 
 - 🔭 I'm currently working on **[]**.
 - 🌱 I'm currently learning **[Kotlin, Flutter]**.
