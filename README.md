@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Shivaram]
+# 👋 Hi, I'm Shivaram
 
 ### 🚀 About Me
 
@@ -23,7 +23,7 @@ I'm a passionate **[Android developer"]** with a love for creating intuitive and
 
 ### My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[shivaram-repo]&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivaram-repo&show_icons=true&theme=dark)
 
 ---
 
