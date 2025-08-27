@@ -17,7 +17,7 @@ I'm a passionate **Android developer** with a love for creating intuitive and be
 - **Tools:** Git, VS Code, eclipse, android studio.
 
 ---
-# Portfolio : https://shivaram-repo.github.io/ 
+# Portfolio : ### https://shivaram-repo.github.io/ 
 ---
 ### My GitHub Stats
 
