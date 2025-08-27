@@ -19,11 +19,5 @@ I'm a passionate **Android developer** with a love for creating intuitive and be
 ---
 # Portfolio : 
   https://shivaram-repo.github.io/ 
----
-### My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivaram-repo&show_icons=true&theme=dark)
 
 ---
-
-### Projects :
