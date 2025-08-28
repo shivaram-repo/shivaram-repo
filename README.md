@@ -17,6 +17,17 @@ I'm a passionate **Android developer** with a love for creating intuitive and be
 - **Tools:** Git, VS Code, eclipse, android studio.
 
 ---
+
+<div align="center">
+  <!-- <img src="https://streak-stats.demolab.com?user=shivaram-repo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />  -->
+  <img src="https://nirzak-streak-stats.vercel.app?user=shivaram-repo&theme=nightowl" height="160" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-repo&layout=compact&theme=radical' height="160"/>
+</div>
+
+---
 # Portfolio : 
   https://shivaram-repo.github.io/ 
 
