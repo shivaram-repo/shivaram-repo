@@ -30,5 +30,16 @@ I'm a passionate **Android developer** with a love for creating intuitive and be
 ---
 # Portfolio : 
   https://shivaram-repo.github.io/ 
+---
+---
+<h4>
+    Contact me:
+  </h4>
+  <a href="mailto:shivaramshiva370@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="47" height="35" alt="gmail logo"  />
+  </a>
 
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="47" height="35" alt="linkedin logo"  />
+  </a>
 ---
