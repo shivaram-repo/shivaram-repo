@@ -42,4 +42,3 @@ I'm a passionate **Android developer** with a love for creating intuitive and be
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="47" height="35" alt="linkedin logo"  />
   </a>
----
