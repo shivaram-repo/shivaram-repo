@@ -24,7 +24,7 @@ I'm a passionate **Android developer** with a love for creating intuitive and be
 </div>
 <br>
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-repo&layout=compact&theme=radical' height="160"/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-repo&layout=compact&theme=radical&nocache=1' height="160"/>
 </div>
 
 ---
