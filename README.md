@@ -43,5 +43,5 @@ I'm a passionate **Android developer** with a love for creating intuitive and be
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shivaram-repo&icon=2&color=13)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=shivaram-repo&icon=2&color=13)(https://visitcount.itsvg.in)
 
