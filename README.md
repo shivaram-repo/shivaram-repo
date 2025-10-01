@@ -35,3 +35,5 @@ I'm a passionate **Android developer** with a love for creating intuitive and be
 ![](https://github-readme-stats.vercel.app/api?username=shivaram-repo&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shivaram-repo&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-repo&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshivaram-repo&countColor=%23263759)
