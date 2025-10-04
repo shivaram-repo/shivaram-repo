@@ -51,9 +51,9 @@ https://shivaram-repo.github.io/
 [![An image of @shivaramrepo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivaramrepo)](https://holopin.io/@shivaramrepo)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NiranjanKumar001/NiranjanKumar001/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NiranjanKumar001r/NiranjanKumar001/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NiranjanKumar001/tNiranjanKumar001r/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivaram-repo/shivaram-repo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivaram-repo/shivaram-repo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shivaram-repo/shivaram-repo/output/github-snake.svg" />
 </picture>
 
 
