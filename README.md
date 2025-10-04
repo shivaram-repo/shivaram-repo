@@ -41,10 +41,21 @@ https://shivaram-repo.github.io/
 
 ---
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivaram-repo&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=shivaram-repo&theme=rose_pine&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-repo&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Profile Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=shivaram-repo&column=10&theme=matrix)
+
 [![An image of @shivaramrepo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivaramrepo)](https://holopin.io/@shivaramrepo)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NiranjanKumar001/NiranjanKumar001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NiranjanKumar001r/NiranjanKumar001/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NiranjanKumar001/tNiranjanKumar001r/output/github-snake.svg" />
+</picture>
+
+
 ![Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshivaram-repo&countColor=%23263759)
+
