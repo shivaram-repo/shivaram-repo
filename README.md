@@ -45,4 +45,6 @@ https://shivaram-repo.github.io/
 ![](https://nirzak-streak-stats.vercel.app/?user=shivaram-repo&theme=rose_pine&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-repo&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![An image of @shivaramrepo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivaramrepo)](https://holopin.io/@shivaramrepo)
+
 ![Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshivaram-repo&countColor=%23263759)
