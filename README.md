@@ -31,7 +31,7 @@ I'm a passionate **Application developer** with a love for creating intuitive an
 <a href="mailto:shivaramshiva370@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" width="47" height="35" alt="Gmail logo" />
 </a>
-<a href="https://www.linkedin.com/in/shivaram-t-s-b32b90288/" target="_blank">
+<a href="https://www.linkedin.com/in/shivaram-t-s" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="47" height="35" alt="LinkedIn logo" />
 </a>
 
