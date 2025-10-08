@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Shivaram
 ## 💫 About Me
 
-I'm a passionate **Application developer** with a love for creating intuitive and beautiful app experiences.
+I'm a passionate **Web-Application developer** with a love for creating intuitive and beautiful app experiences.
 
 * 🌱 I'm currently learning **Kotlin** and **React**.
 * 👯 I'm looking to collaborate on **open-source projects** and projects related to **AI**.
-* 💬 Ask me about Application development.
+* 💬 Ask me about Web-Application development.
 
 ---
 ## 🚀 My Skills
 
 * **Languages:** Java, Kotlin, MySQL, C, Python, Javascript, Mongodb
-* **Frameworks & Libraries:** Java Swing & AWT, Ktor, React, React Native
-* **Tools:** Git, VS Code, Eclipse, Android Studio
+* **Frameworks & Libraries:** Java Swing & AWT, React, React Native
+* **Tools:** Git, VS Code, Eclipse,
 
 ---
 ## 💻 Tech Stack
