@@ -1,4 +1,19 @@
-# 👋 Hi, I'm Shivaram
+<div align="right">
+  
+![Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshivaram-repo&countColor=%23263759)
+
+</div>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1000&color=0BD7F7&center=true&width=435&lines=Hello%2C+I'm+shivaram.+;You+have+arrived+at+the+right+place.)](https://git.io/typing-svg)  
+
+</div>
+
+---
+
+# 👋 Hi, I'm shivaram
+---
+
 ## 💫 About Me
 
 I'm a passionate **Web-Application developer** with a love for creating intuitive and beautiful app experiences.
@@ -66,8 +81,3 @@ https://shivaram-repo.github.io/
 </picture>
 
 ---
-<div align="center">
-  
-![Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshivaram-repo&countColor=%23263759)
-
-</div>
