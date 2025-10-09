@@ -1,11 +1,6 @@
-<div align="right">
-  
-![Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshivaram-repo&countColor=%23263759)
-
-</div>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&duration=4000&pause=1000&color=0BD7F7&center=true&width=435&lines=Hello%2C+I'm+shivaram.+;You+have+arrived+at+the+right+place.)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=600&size=25&duration=4000&pause=1000&color=0BD7F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+shivaram.+;You+have+arrived+at+the+right+place.)](https://git.io/typing-svg)
 
 </div>
 
@@ -79,5 +74,12 @@ https://shivaram-repo.github.io/
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivaram-repo/shivaram-repo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/shivaram-repo/shivaram-repo/output/github-snake.svg" />
 </picture>
+
+---
+<div align="center">
+  
+![Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshivaram-repo&countColor=%23263759)
+
+</div>
 
 ---
