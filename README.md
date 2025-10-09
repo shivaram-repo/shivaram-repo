@@ -66,5 +66,8 @@ https://shivaram-repo.github.io/
 </picture>
 
 ---
-
+<div align="center">
+  
 ![Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshivaram-repo&countColor=%23263759)
+
+</div>
