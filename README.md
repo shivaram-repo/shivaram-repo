@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=600&size=25&duration=4000&pause=1000&color=0BD7F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+shivaram.+;You+have+arrived+at+the+right+place.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=600&size=25&duration=4000&pause=1000&color=0BD7F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Shivaram.+;You+have+arrived+at+the+right+place.)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,6 +35,7 @@ I'm a passionate **Web-Application developer** with a love for creating intuitiv
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+
 
 ---
 ## 📧 Contact Me
@@ -78,7 +79,6 @@ https://shivaram-repo.github.io/
 <div align="center">
   
 ![Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshivaram-repo&countColor=%23263759)
-
 </div>
 
 ---
