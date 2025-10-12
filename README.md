@@ -22,8 +22,8 @@ I'm a passionate **Web-Application developer** with a love for creating intuitiv
 ## 🚀 My Skills
 
 * **Languages:** Java, Kotlin, MySQL, C, Python, Javascript, Mongodb
-* **Frameworks & Libraries:** Java Swing & AWT, React, React Native
-* **Tools:** Git, VS Code, Eclipse,
+* **Frameworks & Libraries:** Java Swing & AWT, Express.js, React.js
+* **Tools:** Git, VS Code, NPM ,Vite
 
 ---
 ## 💻 Tech Stack
@@ -52,8 +52,15 @@ https://shivaram-repo.github.io/
 
 ---
 ## 📊 GitHub Stats
+<div align="center">
+  
 ![](https://nirzak-streak-stats.vercel.app/?user=shivaram-repo&theme=rose_pine&hide_border=false)
+
+<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-repo&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ---
 
