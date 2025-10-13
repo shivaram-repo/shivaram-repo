@@ -71,11 +71,6 @@ https://shivaram-repo.github.io/
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=shivaram-repo&column=10&theme=matrix)
-
----
 
 ## 🥇 Holopin Badges
 
