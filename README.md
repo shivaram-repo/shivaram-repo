@@ -60,12 +60,12 @@ https://shivaram-repo.github.io/
 ---
 ## 📊 GitHub Stats
 <div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=shivaram-repo&theme=rose_pine&hide_border=false)
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-repo&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivaram-repo&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=shivaram-repo&theme=rose_pine&hide_border=false)
 
 </div>
 
