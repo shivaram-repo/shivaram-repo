@@ -16,14 +16,6 @@ I'm a passionate **Web-Application developer** with a love for creating intuitiv
 
 * 🌱 I'm currently learning **Kotlin** and **React**.
 * 👯 I'm looking to collaborate on **open-source projects** and projects related to **AI**.
-* 💬 Ask me about Web-Application development.
-
----
-## 🚀 My Skills
-
-* **Languages:** Java, Kotlin, MySQL, C, Python, Javascript, Mongodb
-* **Frameworks & Libraries:** Java Swing & AWT, Express.js, React.js
-* **Tools:** Git, VS Code, NPM ,Vite
 
 ---
 ## 💻 Tech Stack
