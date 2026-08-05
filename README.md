@@ -16,7 +16,7 @@
 
 I'm a passionate **Web-Application developer** with a love for creating intuitive and beautiful app experiences.
 
-* 🌱 I'm currently learning **Kotlin** and **React**.
+* 🌱 I'm currently learning **React**.
 * 👯 I'm looking to collaborate on **open-source projects** and projects related to **AI**.
 
 ---
@@ -25,7 +25,6 @@ I'm a passionate **Web-Application developer** with a love for creating intuitiv
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
